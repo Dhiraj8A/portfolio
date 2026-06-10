@@ -1,5 +1,5 @@
 import React from 'react';
-import { personalInfo } from '../data/portfolioData';
+import { personalInfo } from '../Data/portfolioData';
 
 export default function Hero() {
   return (
