@@ -16,7 +16,7 @@ const Footer = () => {
         </div>
 
         <div>
-          <p className="text-slate-600">// Status: Open for opportunities</p>
+          <p className="text-slate-600"> Status: Open for opportunities</p>
         </div>
       </div>
     </footer>

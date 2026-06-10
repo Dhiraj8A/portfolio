@@ -4,7 +4,7 @@ import { personalInfo } from '../Data/portfolioData';
 export default function Contact() {
   return (
     <section id="contact" className="py-32 max-w-2xl mx-auto px-6 text-center">
-      <p className="text-emerald-400 font-mono mb-3">// What's Next?</p>
+      <p className="text-emerald-400 font-mono mb-3">What's Next?</p>
       <h2 className="text-4xl md:text-5xl font-bold text-slate-200 mb-4">Get In Touch</h2>
       
       <p className="text-slate-400 mb-8 leading-relaxed">
