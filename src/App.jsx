@@ -1,11 +1,11 @@
 import React from 'react';
 import MainLayout from './Layout/MainLayout';
-import Hero from './sections/Hero';
-import Skills from './sections/Skills';
-import Experience from './sections/Experience';
-import Projects from './sections/Projects';
-import About from './sections/About';
-import Contact from './sections/Contact';
+import Hero from './Sections/Hero';
+import Skills from './Sections/Skills';
+import Experience from './Sections/Experience';
+import Projects from './Sections/Projects';
+import About from './Sections/About';
+import Contact from './Sections/Contact';
 
 export default function App() {
   return (
