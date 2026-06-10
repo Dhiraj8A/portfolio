@@ -17,14 +17,14 @@ export default function Contact() {
           href={`mailto:${personalInfo.email}`}
           className="border border-emerald-400 text-emerald-400 bg-transparent px-8 py-4 rounded font-mono hover:bg-emerald-400/10 transition-all duration-200"
         >
-          Ping_Me.sh
+          Ping_To<br />Mail
         </a>
         
         <a 
-          href="tel:+916302443671"
+          href={`tel:${personalInfo.phone}`}
           className="text-slate-400 font-mono hover:text-emerald-400 transition-colors py-2 text-sm"
         >
-          +91 6302443671
+          +91 6302443671 
         </a>
       </div>
     </section>
