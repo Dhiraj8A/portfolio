@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ConsoleLog from './ConsoleLog';
-import Button from '../../component/Button';
+import Button from '../../Component/Button';
 
 const AttackDashboard = () => {
   const [logs, setLogs] = useState([]);
