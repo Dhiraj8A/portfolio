@@ -1,5 +1,5 @@
 import React from 'react';
-import { projects } from '../data/portfolioData';
+import { projects } from '../Data/portfolioData';
 import AttackDashboard from '../Features/attack-simulator/AttackDashboard'; // Optional interactive feature
 
 export default function Projects() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { skills } from '../data/portfolioData';
+import { skills } from '../Data/portfolioData';
 
 export default function Skills() {
   return (
